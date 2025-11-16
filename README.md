@@ -118,7 +118,7 @@ This project is licensed under the MIT License.
 
 👩‍💻 Author
 Priyanka Burra
-MSc Bioinformatics | Data Analyst | Python Developer
+MSc Bioinformatics 
 GitHub: https://github.com/burrapriyanka85-pixel
 
 ## 📁 Project Structure
